@@ -1,1 +1,1 @@
-echo worker: python worker.py
+echo worker: python bot.py
